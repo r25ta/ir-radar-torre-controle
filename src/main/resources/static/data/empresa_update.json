@@ -1,0 +1,53 @@
+{
+    "empresaSpectrum": {
+        "id": "carga1Spectrum",
+        "coordinates": [-46.52, -23.54],
+        "radiusSize": [600, 1200, 1800, 2400],
+        "company": {
+            "id": "carga1",
+            "name": "carga1 company",
+            "coordinates": [-46.52, -23.54],
+            "trucks": [{
+                    "id": "LynneStokes",
+                    "name": "LynneStokes, placa : ejs5234",
+                    "coordinates": [-46.62, -23.54]
+                },
+                {
+                    "id": "JoeRobbins",
+                    "name": "Jamar Pittman, placa : eqg4567",
+                    "coordinates": [-46.72, -23.54]
+                },
+                {
+                    "id": "EdwardLisenby",
+                    "name": "Edward Lisenby, placa : hbz7814",
+                    "coordinates": [-46.82, -23.53]
+                },
+                {
+                    "id": "PaulenePocock",
+                    "name": "Paulene Pocock, placa : yaz1345",
+                    "coordinates": [-46.93, -23.53]
+                },
+                {
+                    "id": "MilfordBisignano",
+                    "name": "Milford Bisignano, placa : gzx4567",
+                    "coordinates": [-46.40, -23.53]
+                },
+                {
+                    "id": "DaniellBenford",
+                    "name": "Daniell Benford, placa : gzx1247",
+                    "coordinates": [-46.20, -23.54]
+                },
+                {
+                    "id": "JeffMisner",
+                    "name": "Jeff Misner, placa : bzx4578",
+                    "coordinates": [-46.30, -23.54]
+                },
+                {
+                    "id": "EddieScharf",
+                    "name": "EddieScharf, placa : lkz6531",
+                    "coordinates": [-46.15, -23.55]
+                }
+            ]
+        }
+    }
+}
